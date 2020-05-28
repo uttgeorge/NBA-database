@@ -1,4 +1,4 @@
-# Database-Assignment-2
+# NBA database
 # Abstract
 The domain is NBA, including statistics of teams and players from last assignment, tweets from Twitter scrapted by Twitter API and Tweepy.
 This database will allow us to search statistics of players and teams from 2017-2018 regular season, reaching players personal performances, salaries, also teams' major twitter accounts and their tweets.
